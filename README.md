@@ -7,6 +7,9 @@ https://min-api.cryptocompare.com/
 
 ![App](https://github.com/kekosoftware/vue3-criptocotizador/blob/main/public/app.png "App")
 
+## App Online
+https://polite-stroopwafel-f53f73.netlify.app/
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
