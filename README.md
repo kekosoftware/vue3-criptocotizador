@@ -5,7 +5,7 @@
 ## API - Cripto
 https://min-api.cryptocompare.com/
 
-![App](./app.png "App")
+![App](https://github.com/kekosoftware/vue3-criptocotizador/blob/main/public/app.png "App")
 
 ## Recommended IDE Setup
 
